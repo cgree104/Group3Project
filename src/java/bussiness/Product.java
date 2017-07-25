@@ -18,8 +18,7 @@ public class Product implements Serializable
    private String description;
    private double price;
    public Product() 
-   {
-       
+   {  
    }
    public Long getId() 
    {
